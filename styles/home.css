@@ -1,0 +1,19 @@
+/* add home page styles here */
+.outer {
+    width: 500px;
+    height: 500px;
+    background: blueviolet;
+    padding: 50px;
+    color: white;
+}
+
+.inner {
+    color: black;
+    height: 200px;
+    width: 300px;
+    background: pink;
+}
+
+.no-border-box {
+    box-sizing: content-box;
+}
